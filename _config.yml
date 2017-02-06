@@ -4,7 +4,7 @@ email:       bluespider42@hotmail.co.uk
 author:      Ben
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://github-bluespider42.github.io/"
+url:         "https://bluespider42.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
